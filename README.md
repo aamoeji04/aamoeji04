@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Follow me to see how I totally transform this boring profile repo
 
 - 🔭 I’m currently working on refining those pinned projects below, so you can easily follow them 
 - 🌱 I’m currently learning and becoming an expert in SQL
