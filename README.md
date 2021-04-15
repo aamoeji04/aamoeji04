@@ -1,11 +1,11 @@
-### Hi there 👋 Follow me to see how I totally transform this boring profile repo
+### Hi there 👋
 
 - 🔭 I’m currently working on refining those pinned projects below, so you can easily follow them 
 - 🌱 I’m currently learning and becoming an expert in SQL
 - 👯 I’m looking to collaborate on different open-source application projects
 - 🤔 I’m looking for help with Reccomendation Systems for Data Science 
 - 💬 Ask me about ABOSULTELY ANYTHING!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ijeoma-akamnonu-b761311ba/)| [Instagram](https://www.instagram.com/aamoeji/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ijeoma-akamnonu-b761311ba/) | [Instagram](https://www.instagram.com/aamoeji/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm ambidextrous~ *whoop whoop* 
 
