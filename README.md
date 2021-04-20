@@ -8,6 +8,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ijeoma-akamnonu-b761311ba/) | [Medium](https://inakamno.medium.com/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm ambidextrous~ *whoop whoop* 
+- 🥅 2021 Goals: Put my name out there and upskill in as many areas as I can handle
 
 <!--
 **aamoeji04/aamoeji04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
