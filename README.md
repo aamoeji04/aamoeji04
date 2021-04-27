@@ -10,6 +10,8 @@
 - ⚡ Fun fact: I'm ambidextrous~ *whoop whoop* 
 - 🥅 2021 Goals: Put my name out there and upskill in as many areas as I can handle
 
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 <!--
 **aamoeji04/aamoeji04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
