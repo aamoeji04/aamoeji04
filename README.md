@@ -12,6 +12,7 @@
 
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+(https://www.linkedin.com/in/ijeoma-akamnonu-b761311ba/)![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 <!--
 **aamoeji04/aamoeji04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
