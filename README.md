@@ -15,7 +15,6 @@
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/ijeoma-akamnonu-b761311ba/]
 
 <!--
 **aamoeji04/aamoeji04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
