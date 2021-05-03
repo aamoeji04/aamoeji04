@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: Put my name out there and upskill in as many areas as I can handle
 - 📫 How to reach me:
 
-<p align="left"><a href="https://linkedin.com/in/ijeoma-akamnonu" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ijeoma-akamnonu" /></a>
+<p align="left"><a href="https://www.linkedin.com/in/ijeoma-akamnonu-b761311ba/u" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ijeoma-akamnonu" /></a>
 <a href="https://medium.com/@inakamno" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@inakamno" /></a>
 </p>
 
