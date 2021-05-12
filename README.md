@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Reccomendation Systems for Data Science 
 - 💬 Ask me about ABOSULTELY ANYTHING!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm ambidextrous~ *whoop whoop* 
+- ⚡ Fun fact: I'm ambidextrous~ 🙌
 - 🥅 2021 Goals: Put my name out there and upskill in as many areas as I can handle
 - 📫 How to reach me:
 
