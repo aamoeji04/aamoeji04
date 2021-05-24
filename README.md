@@ -1,4 +1,4 @@
-
+## Hi
 
 - 🔭 I’m currently working on refining those pinned projects below, so you can easily follow them 
 - 🌱 I’m currently learning and becoming an expert in SQL
