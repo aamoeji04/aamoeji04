@@ -1,13 +1,12 @@
 # Hi There!! 👋 👋
 
-- 🔭 I’m currently working on refining those pinned projects below, so you can easily follow them 
-- 🌱 I’m currently learning and becoming an expert in SQL
+- 🔭 I’m currently working on becoming a Mobile Software Developer
+- 🌱 I’m currently learning and becoming an expert in Swift
 - 👯 I’m looking to collaborate on different open-source application projects
-- 🤔 I’m looking for help with Reccomendation Systems for Data Science 
 - 💬 Ask me about ABOSULTELY ANYTHING!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm ambidextrous~ 🙌
-- 🥅 2021 Goals: Put my name out there and upskill in as many areas as I can handle
+- 🥅 2022 Goals: Put my name out there and upskill in as many areas as I can handle
 - 📫 How to reach me:
 
 <p align="left"><a href="https://www.linkedin.com/in/ijeoma-akamnonu-b761311ba/u" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ijeoma-akamnonu" /></a>
